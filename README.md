@@ -6,3 +6,5 @@ RGB status LED is green under 25°C, blue between 25°C - 40°C and red above 40
 
 ![Beadboard](https://github.com/DriesDebouver/Smart-fan-based-on-arduino/blob/master/Arduino%20breadboard.jpg)
 ![Schematic](https://github.com/DriesDebouver/Smart-fan-based-on-arduino/blob/master/Schema.PNG)
+
+Exercise for the "Sensors & Interfacing" course in the Internet of Things education.
